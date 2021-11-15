@@ -1,7 +1,7 @@
 ---
 title: "INT214: Workshop"
-author: "by: 63130500046 Thanakrit Paithun" 
-output: html_notebook
+author: "by: Thanakrit Paithun | std: 63130500046" 
+output: html_document
 ---
 
 ## R Markdown
